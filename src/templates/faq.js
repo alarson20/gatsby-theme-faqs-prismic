@@ -208,7 +208,6 @@ query FrequentlyAskedQuestionsQuery {
         html
         text
       },
-      }
     }
   }
 }
